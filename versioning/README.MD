@@ -1,11 +1,11 @@
-# Doel
+## Doel
 
-# Context / achtergrond
+## Context / achtergrond
 
-# Wat moet er gebeuren - wat is er nog niet en hebben we wel nodig?
+## Wat moet er gebeuren - wat is er nog niet en hebben we wel nodig?
 
-# Wat is het eindresultaat?
+## Wat is het eindresultaat?
 
-# Wat valt er buiten scope?
+## Wat valt er buiten scope?
 
-# Impact - hoeveel inspanning kost dit?
+## Impact - hoeveel inspanning kost dit?

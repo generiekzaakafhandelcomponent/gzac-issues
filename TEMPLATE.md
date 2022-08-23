@@ -8,4 +8,6 @@
 
 ## Wat valt er buiten scope?
 
-## Impact - hoeveel inspanning kost dit?
+## Impact - hoeveel inspanning kost dit? Inschatting door PO - S/M/X/XL
+
+## Impact - hoeveel inspanning kost dit? Inschatting door SA - S/M/X/XL

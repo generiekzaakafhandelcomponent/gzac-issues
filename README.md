@@ -7,7 +7,7 @@
 - [Verbeterde Zaakdossier filtering](verbeterde-Zaakdossier-filtering/README.md)
 - [Stamgegevens](stamgegevens/README.md)
 
-# Inschattingen - T-shirt size naar uren
+# Inschattingen
 | T-shirt size | Blokken van 30 uur |
 | :---: | :---: |
 | S | 1 - 3 |

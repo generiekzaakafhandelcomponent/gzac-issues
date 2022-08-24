@@ -6,3 +6,11 @@
 - [RBAC](role-based-access-control/README.md)  
 - [Verbeterde Zaakdossier filtering](verbeterde-Zaakdossier-filtering/README.md)
 - [Stamgegevens](stamgegevens/README.md)
+
+# Inschattingen - T-shirt size naar uren
+| T-shirt size | Blokken van 30 uur |
+| :---: | :---: |
+| S | 1 - 3 |
+| M | 3 - 6 |
+| L | 6 - 12 |
+| Xl | 12 - 24 |

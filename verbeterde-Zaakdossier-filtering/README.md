@@ -16,8 +16,8 @@ Het filteren van Zaakdossier bestaat standaard uit het filteren op een case-numm
 | Scenario      | Wat moet er gebeuren | Wat is het eindresultaat | Impact (eerste PO inschatting) |
 | :--           | :-----------         | :----------- | :-- |
 | 1             | Ophalen configuratie filterscherm uit database, autodeployment vanuit configuratie-file in backend code | Het development team implementeert, wel exporteerbaar | M |
-| 2             | Scenario 2 + API/UI ondersteuning voor het beheren van de velden | De beheerder vult zelf het pad naar de velden in | L |
-| 3             | Scenario 3 + API/UI ondersteuning voor het uitlezen en tonen van de gedefinieerde velden uit het schema | De beheerder kiest uit de velden die gedefinieerd zijn in het schema | XL |
+| 2             | Scenario 2 + API/UI ondersteuning voor het beheren van de velden | De beheerder vult zelf het pad naar de velden in | M |
+| 3             | Scenario 3 + API/UI ondersteuning voor het uitlezen en tonen van de gedefinieerde velden uit het schema | De beheerder kiest uit de velden die gedefinieerd zijn in het schema | L |
 
 ### Wat is het eindresultaat - in alle scenario's:
 - Een configureerbaar, standaard filter op de Zaakdossierlijst. 

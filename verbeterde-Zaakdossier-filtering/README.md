@@ -26,5 +26,4 @@ Het filteren van Zaakdossier bestaat standaard uit het filteren op een case-numm
 
 ## Wat valt er buiten scope?
 
-- Het configurabel maken van de lijst via settings in de user interface. De configuratie wordt in een file gedaan. 
 - Het filteren op eigenschappen van andere gerelateerde informatie (objecten), zoals Zaakobjecten, Haalcentraal, Klant. Dus: filteren = data in Zaakdetail Object, ook als dat duplicaat data oplevert. 

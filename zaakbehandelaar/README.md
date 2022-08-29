@@ -10,9 +10,22 @@ Daarnaast is het wenselijk om een zogenaamde ‘werkverdeler’ om zaakdossiers 
 
 ## Wat moet er gebeuren - wat is er nog niet en hebben we wel nodig?
 
+- Toevoegen van een eigenschap 'behandelaar' aan de tabel 'documents'
+- Aanpassing user interface:
+  - Dropdown met gebruikers uit Keycloak (dossier detail scherm)
+  - Weergave huidige behandelaar (dossier detail scherm)
+  - Weergave huidige behandelaar (dossier lijst scherm)
+- API ondersteuning voor bovenstaande aanpassingen
+
 ## Wat is het eindresultaat?
 
+- Het is in GZAC mogelijk om een behandelaar aan een zaakdossier toe te wijzen, te wijzigen en te verwijderen.
+- Behandelaar kan worden geselecteerd uit de lijst van gebruikers: deze gebruikers worden opgevraagd uit Keycloak.
+- De behandelaar is zichtbaar in het dossier detail scherm en het dossier lijst scherm
+
 ## Wat valt er buiten scope?
+
+- Het opslaan en ophalen van de behandelaar uit de Zaken API
 
 ## Impact - hoeveel inspanning kost dit? 
 Inschatting door PO: S/M/X/XL  

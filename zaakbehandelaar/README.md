@@ -1,6 +1,6 @@
 ## Doel
 
-Het kunnen toewijzen van een zaakdossier aan een specifieke gebruiker, zodat andere gebruikers kunnen zien dat het desbetreffende zaakdossier al onderhanden is.  
+Het kunnen koppelen van een zaakdossier aan een specifieke gebruiker, zodat andere gebruikers kunnen zien dat het desbetreffende zaakdossier al onderhanden is.  
 
 ## Context / achtergrond
 
@@ -12,9 +12,9 @@ Daarnaast is het wenselijk om een zogenaamde ‘werkverdeler’ om zaakdossiers 
 
 - Toevoegen van een eigenschap 'behandelaar' aan de tabel 'documents'
 - Aanpassing user interface:
-  - Dropdown met gebruikers uit Keycloak (dossier detail scherm)
-  - Weergave huidige behandelaar (dossier detail scherm)
-  - Weergave huidige behandelaar (dossier lijst scherm)
+  - Dropdown met gebruikers uit Keycloak (zaakdossier detail scherm)
+  - Weergave huidige behandelaar (zaakdossier detail scherm)
+  - Weergave huidige behandelaar (zaakdossier lijst scherm)
 - API ondersteuning voor bovenstaande aanpassingen
 - Standaard code beschikbaar voor het instellen van een behandelaar vanuit een proces
 
@@ -27,7 +27,7 @@ Daarnaast is het wenselijk om een zogenaamde ‘werkverdeler’ om zaakdossiers 
 
 ## Wat valt er buiten scope?
 
-- Het opslaan en ophalen van de behandelaar uit de Zaken API
+- Het opslaan en ophalen van de behandelaar uit de Zaken API, in afwachting van de performance verbeteringen. 
 
 ## Impact - hoeveel inspanning kost dit? 
 Inschatting door PO: S

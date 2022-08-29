@@ -20,8 +20,8 @@ Daarnaast is het wenselijk om een zogenaamde ‘werkverdeler’ om zaakdossiers 
 
 ## Wat is het eindresultaat?
 
-- Het is in GZAC mogelijk om een behandelaar aan een zaakdossier toe te wijzen, te wijzigen en te verwijderen.
-- Behandelaar kan worden geselecteerd uit de lijst van gebruikers: deze gebruikers worden opgevraagd uit Keycloak.
+- Het is in GZAC mogelijk om een behandelaar aan een zaakdossier toe te wijzen, te wijzigen en te verwijderen
+- Behandelaar kan worden geselecteerd uit de lijst van gebruikers
 - De behandelaar is zichtbaar in het dossier detail scherm en het dossier lijst scherm
 - In implementaties kan de behandelaar worden ingesteld met behulp van een expressie in een BPMN model
 

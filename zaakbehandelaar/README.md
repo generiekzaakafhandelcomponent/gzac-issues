@@ -4,6 +4,10 @@ Het kunnen toewijzen van een zaakdossier aan een specifieke gebruiker, zodat and
 
 ## Context / achtergrond
 
+Veel gemeentelijke gebruikers werken in teams van personen met dezelfde rol. Deze gebruikers kunnen dus elk willekeurig nieuw zaakdossier dat binnenkomt oppakken. Het kan een poosje duren voordat een gebruiker de eerste gebruikerstaak die klaarstaat in het zaakdossier afrondt, omdat de gebruiker eerst de inhoud van het zaakdossier tot zich moet nemen. In de tussentijd kan een collega hetzelfde zaakdossier openen en ook beginnen met het tot zich nemen van de inhoud van het zaakdossier. Op dat moment zijn er dus 2 medewerkers met hetzelfde zaakdossier bezig zonder dat ze dat van elkaar weten. Dit is niet wenselijk. 
+
+Daarnaast is het wenselijk om een zogenaamde ‘werkverdeler’ om zaakdossiers toe te laten wijzen aan bepaalde behandelaars. Dit is vooral van belang omdat bepaalde behandelaars beter in staat zijn om de meer ‘complexere’ zaken op te pakken dan andere behandelaars.
+
 ## Wat moet er gebeuren - wat is er nog niet en hebben we wel nodig?
 
 ## Wat is het eindresultaat?
@@ -12,4 +16,4 @@ Het kunnen toewijzen van een zaakdossier aan een specifieke gebruiker, zodat and
 
 ## Impact - hoeveel inspanning kost dit? 
 Inschatting door PO: S/M/X/XL  
-Inschatting door SA: S/M/X/XL  
+Inschatting door SA: S/M/X/XL

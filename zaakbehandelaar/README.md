@@ -30,5 +30,4 @@ Daarnaast is het wenselijk om een zogenaamde ‘werkverdeler’ om zaakdossiers 
 - Het opslaan en ophalen van de behandelaar uit de Zaken API
 
 ## Impact - hoeveel inspanning kost dit? 
-Inschatting door PO: S/M/X/XL  
-Inschatting door SA: S/M/X/XL
+Inschatting door PO: S

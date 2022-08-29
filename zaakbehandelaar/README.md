@@ -16,12 +16,14 @@ Daarnaast is het wenselijk om een zogenaamde ‘werkverdeler’ om zaakdossiers 
   - Weergave huidige behandelaar (dossier detail scherm)
   - Weergave huidige behandelaar (dossier lijst scherm)
 - API ondersteuning voor bovenstaande aanpassingen
+- Standaard code beschikbaar voor het instellen van een behandelaar vanuit een proces
 
 ## Wat is het eindresultaat?
 
 - Het is in GZAC mogelijk om een behandelaar aan een zaakdossier toe te wijzen, te wijzigen en te verwijderen.
 - Behandelaar kan worden geselecteerd uit de lijst van gebruikers: deze gebruikers worden opgevraagd uit Keycloak.
 - De behandelaar is zichtbaar in het dossier detail scherm en het dossier lijst scherm
+- In implementaties kan de behandelaar worden ingesteld met behulp van een expressie in een BPMN model
 
 ## Wat valt er buiten scope?
 

@@ -33,8 +33,8 @@ Networking / DevOps:
 
 ## Wat is het eindresultaat?
 
-Een MVP, draaiende op de infra van Den Haag, voorzien van OPA, gekoppeld aan Styra. Een productiewaardig minimale setup (MVP): 
-- in de UI in GZAC alleen de Zaakdossier-types (in het linkermenu) te zien zijn waar de gebruiker recht op heeft.  
+Een MVP, draaiende op de infra van Den Haag, voorzien van OPA, gekoppeld aan Styra. Een productiewaardig minimale setup (MVP) op basis van het proces ooievaarspas: 
+- in de UI in GZAC alleen het Zaakdossier-type 'ooievaarspas'(in het linkermenu) te zien voor de gebruikersgroep die daar recht op heeft.  
 - in het lijstscherm van Zaakdossiers alleen die instances van Zaken worden getoond waar de gebruiker recht op heeft. 
 - in het lijstscherm van Zaakobjecten binnen een Zaakdossier alleen die Objecten waar de gebruiker rechten voor heeft. 
 

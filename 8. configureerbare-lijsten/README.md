@@ -4,7 +4,7 @@ Het per Zaakdossier kunnen configuren van kolommen in de Zaakdossier lijst.
 
 ## Context / achtergrond
 
-Standaard bestaat de dossier-lijst uit een aantal kolommen: 'referentienummer', 'aangemaakt door', 'aangemaakt op', 'laatst gewijzigd op'. De eindgebruiker heeft met deze kolommen dus nooit een goed beeld van waar het dossier inhoudelijk over gaat.
+Standaard bestaat de dossier-lijst uit een aantal kolommen: 'referentienummer', 'aangemaakt door', 'aangemaakt op', en 'laatst gewijzigd op'. De eindgebruiker heeft met deze kolommen dus nooit een goed beeld van waar het dossier inhoudelijk over gaat.
 
 Dossier-lijst kolommen zijn op dit moment aan te passen. Echter, dit vereist een configuratie-wijziging in de frontend-code. Die wijziging is relatief eenvoudig, omdat het om configuratie gaat en niet om een custom frontend component. Het configureren van lijst-kolommen in de beheeromgeving brengt de wens voor zo weinig mogelijk code in een implementatie een stap dichterbij.
 

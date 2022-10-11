@@ -1,0 +1,38 @@
+## Doel
+
+De beheerder laten configureren welke gegevens de Zaakafhandelaar ziet op aparte tabbladen van het detailscherm van een dossier.
+
+## Context / achtergrond
+
+De data die getoond moet worden in het dossier detail scherm verschilt per dossier type. Soms zijn Zaakobjecten heel erg relevant, of is een custom tabblad gewenst. 
+In huidige implementaties kunnen custom tabbladen gemaakt worden en worden ‘aangezet’ in de environment configuratie. 
+Daar is echter geen support voor dossiertypes: tabs worden voor alle dossiers getoond, of voor geen enkel dossier. 
+De korte-termijn oplossing zou zijn om in de environment configuratie ondersteuning te bouwen voor het dossiertype-specifiek configureren van tabbladen.  
+Dan staat de koppeling tussen tabblad en dossiertype in de frontend code, en is er een code-aanpassing nodig om wijzigingen hierin aan te brengen. 
+De duurzame oplossing zou zijn om de beheerder de mogelijkheid te geven om tabbladen te configureren, en per tabblad aan te geven wat er getoond moet worden.
+
+## Wat moet er gebeuren - wat is er nog niet en hebben we wel nodig?
+
+- Beheerschermen voor het beheren van tabbladen per dossiertype
+- Het kunnen aan/uitzetten van de ‘systeem’ tabbladen: (minimaal 1 staat ‘aan’)
+  - Algemeen
+  - Voortgang
+  - Log
+  - Documenten
+- Introductie van ‘tabblad typen’
+  - Type formio, met als eigenschap welke formulier definitie getoond moet worden
+  - Type custom-frontend-component
+  - …
+- De juiste tabbladen moeten getoond worden in het dossier detail scherm
+
+## Wat is het eindresultaat?
+- De beheerder kan, zonder code, configureren welke systeemtabbladen moeten worden getoond per dossier-type
+- De beheerder kan op een tabblad van type ‘FormIO’ een formulier definitie configureren die getoond moet worden
+- De beheerder kan een tabblad van type ‘Custom frontend component’ configureren. In de frontend code moet een component voor dit tabblad geregistreerd zijn
+
+## Wat valt er buiten scope?
+- Role Based Access: zichtbaar maken van tabs op basis van role.
+
+## Impact - hoeveel inspanning kost dit? 
+Inschatting door PO: M/L  
+Inschatting door SA: S/M/L/XL  

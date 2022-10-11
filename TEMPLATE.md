@@ -9,5 +9,5 @@
 ## Wat valt er buiten scope?
 
 ## Impact - hoeveel inspanning kost dit? 
-Inschatting door PO: S/M/X/XL  
-Inschatting door SA: S/M/X/XL  
+Inschatting door PO: S/M/L/XL  
+Inschatting door SA: S/M/L/XL  

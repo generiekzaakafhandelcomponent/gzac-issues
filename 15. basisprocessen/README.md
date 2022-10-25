@@ -1,6 +1,6 @@
 ## Doel
 
-Het kunnen delen van Basisprocessen: downloaden vanaf Github en toevoegen aan de eigen GZAC, of juist uploaden naar Github om te delen met anderen.
+Het kunnen delen van Basisprocessen: downloaden (vanaf Github of gelijksoortig) en toevoegen aan de eigen GZAC, of juist uploaden naar Github om te delen met anderen.
 
 ## Context / achtergrond
 
@@ -8,7 +8,7 @@ Basisprocessen zijn herbruikbare bedrijfsprocessen. Basisprocessen zijn op zichz
 - Procesdefinities (BPMN)
 - Beslisdefinities (DMN)
 - Datadefinities (JSON Schema)
-- Formulierdefinities (Form.IO)
+- Formulierdefinities (Form.IO JSON Schema)
 - Proceskoppelingen (JSON, nog niet 100% beschikbaar)
 - Plugin configuraties (JSON, nog niet beschikbaar)
 - Backend implementatiecode
@@ -22,7 +22,11 @@ Basisprocessen zijn herbruikbare bedrijfsprocessen. Basisprocessen zijn op zichz
 
 ## Wat is het eindresultaat?
 
-Een implementatieteam kan een Basisproces in de juiste structuur op Github publiceren en een ander team kan deze eenvoudig toevoegen aan de eigen implementatie.
+Een implementatieteam kan een Basisproces in de juiste structuur op Github publiceren en een ander team kan deze eenvoudig toevoegen aan de eigen implementatie. 
+
+## Definition of Done?
+
+Dit wordt aangetoond in een demo, waarin een Bedrijfsproces als Basisproces op Github wordt geplaatst en vervolgens een nieuwe GZAC project wordt gemaakt waarin het basisproces wordt geladen. 
 
 ## Wat valt er buiten scope?
 

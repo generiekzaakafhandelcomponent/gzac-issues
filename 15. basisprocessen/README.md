@@ -17,14 +17,13 @@ Basisprocessen zijn herbruikbare bedrijfsprocessen. Basisprocessen zijn op zichz
 ## Wat moet er gebeuren - wat is er nog niet en hebben we wel nodig?
 
 - Een vastgestelde structuur van een Basisproces, inclusief implementatiecode
+- Een oplossing om van een Bedrijfsproces (met installatie-specifieke settings) te komen tot een Basisproces (zonder installatie-specifieke settings)
 - Volledige en duidelijke documentatie van de stappen die nodig zijn om een Basisproces van Github toe te voegen aan de eigen implementatie
 - Volledige en duidelijke documentatie van de stappen die nodig zijn om een Basisproces te publiceren op Github
 
 ## Wat is het eindresultaat?
 
 Een implementatieteam kan een Basisproces in de juiste structuur op Github publiceren en een ander team kan deze eenvoudig toevoegen aan de eigen implementatie. 
-
-## Definition of Done?
 
 Dit wordt aangetoond in een demo, waarin een Bedrijfsproces als Basisproces op Github wordt geplaatst en vervolgens een nieuwe GZAC project wordt gemaakt waarin het basisproces wordt geladen. 
 

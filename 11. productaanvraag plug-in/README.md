@@ -31,3 +31,5 @@ Meer inzicht in de problemen van een onvolledig Zaakdossier. De mogelijkheid (vi
 ## Impact - hoeveel inspanning kost dit? 
 Inschatting door PO: M/L  
 Inschatting door SA: S/M/X/XL  
+
+Toevoegen besluit roadmap meeting - hoge prio, onvolledige zaken grote gevolgen

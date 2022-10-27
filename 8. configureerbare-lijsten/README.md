@@ -30,3 +30,4 @@ Deze wens is sterk gerelateerd aan 'verbeteren Zaakdossier filtering'
 ## Wat valt er buiten scope?
 
 - Het standaard tonen van data die niet in het Zaakdetail zit. Het tonen van bijvoorbeeld Zaaknummer uit de Zaken API brengt een performance vraagstuk met zich mee.
+

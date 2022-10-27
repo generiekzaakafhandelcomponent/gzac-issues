@@ -36,5 +36,6 @@ Dit wordt aangetoond in een demo, waarin een Bedrijfsproces als Basisproces op G
 - Exporteren en autodeployment van proceskoppelingen
 
 ## Impact - hoeveel inspanning kost dit? 
-Inschatting door PO: M 
+Inschatting door PO: M
+
 Inschatting door SA: S/M/X/XL  

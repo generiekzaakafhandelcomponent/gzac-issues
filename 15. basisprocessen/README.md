@@ -9,17 +9,17 @@ Basisprocessen zijn herbruikbare bedrijfsprocessen. Basisprocessen zijn op zichz
 - Beslisdefinities (DMN)
 - Datadefinities (JSON Schema)
 - Formulierdefinities (Form.IO JSON Schema)
-- Proceskoppelingen (JSON, nog niet 100% beschikbaar)
-- Plugin configuraties (JSON, nog niet beschikbaar)
 - Backend implementatiecode
 - Frontend implementatiecode
+- Proceskoppelingen (JSON, nog niet 100% beschikbaar)
+- Plugin configuraties (JSON, nog niet beschikbaar)
 
 ## Wat moet er gebeuren - wat is er nog niet en hebben we wel nodig?
 
 - Een vastgestelde structuur van een Basisproces, inclusief implementatiecode
-- Een oplossing om van een Bedrijfsproces (met installatie-specifieke settings) te komen tot een Basisproces (zonder installatie-specifieke settings)
 - Volledige en duidelijke documentatie van de stappen die nodig zijn om een Basisproces van Github toe te voegen aan de eigen implementatie
 - Volledige en duidelijke documentatie van de stappen die nodig zijn om een Basisproces te publiceren op Github
+- Een oplossing om van een Bedrijfsproces (met installatie-specifieke settings) te komen tot een Basisproces (zonder installatie-specifieke settings)
 
 ## Wat is het eindresultaat?
 

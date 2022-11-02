@@ -19,7 +19,8 @@ Basisprocessen zijn herbruikbare bedrijfsprocessen. Basisprocessen zijn op zichz
 - Een vastgestelde structuur van een Basisproces, inclusief implementatiecode
 - Volledige en duidelijke documentatie van de stappen die nodig zijn om een Basisproces van Github toe te voegen aan de eigen implementatie
 - Volledige en duidelijke documentatie van de stappen die nodig zijn om een Basisproces te publiceren op Github
-- Een oplossing om van een Bedrijfsproces (met installatie-specifieke settings) te komen tot een Basisproces (zonder installatie-specifieke settings)
+  - Een beschrijving van de stappen die nodig zijn om van een Bedrijfsproces een Basisproces te maken
+  - Een beschrijving van de stappen die nodig zijn om het Basisproces te publiceren naar Github
 
 ## Wat is het eindresultaat?
 

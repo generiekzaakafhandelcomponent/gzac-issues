@@ -16,7 +16,7 @@ De UX wordt aangeleverd voor start dev.
 
 - Te configureren (zichtbaar/niet zichtbaar) hoofdmenu-item 'Objecten'
 - Daaronder te configureren (zichtbaar/niet zichtbaar) submenu-item 'Naam_van_Object_type' (bijvoorbeeld 'Laadpalen'). Deze lijst toont alle Objecten van 1 type. 
-- Een lijstscherm van Objecten, met in code/configuratie te configureren kolommen, waarbij elke kolom 1 waarde uit het Object toont
+- Een lijstscherm van Objecten, met in code/configuratie te configureren kolommen, waarbij elke kolom 1 waarde uit het Object toont. De lijst is per kolom sorteerbaar.
 - Een detailscherm van een object, waarbij de data wordt getoond dmv een formio definitie. 
 - De mogelijkheid deze data te wijzigen en op te slaan. Elke gebruiker met toegang heeft volledige rechten in MVP. 
 - Een MVP zoek op 1 in te stellen waarde, zodat gezocht kan worden in Objecten.

@@ -8,7 +8,7 @@
 - [Stamgegevens](stamgegevens/README.md)
 
 # Inschattingen
-| T-shirt size | Blokken van 30 uur |
+| T-shirt size | Blokken van 30 uur | sprint bevat x blokken? |
 | :---: | :---: |
 | S | 1 - 3 |
 | M | 3 - 6 |

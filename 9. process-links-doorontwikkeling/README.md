@@ -24,4 +24,4 @@ Een eenduidige pagina waar de beheerder alle proceskoppelingen kan instellen.
 
 ## Impact - hoeveel inspanning kost dit? 
 Inschatting door PO: M  
-Inschatting door SA: S/M/X/XL  
+Inschatting door SA: L

@@ -17,4 +17,4 @@
 
 # Roadmap 
 
-Te vinden op: https://ritense.airfocus.com/share/d72894bc4eb6a52e4984bc040cea725f
+[Roadmap voor de komende vier maanden](https://ritense.airfocus.com/share/7e310d940ab2cea996c52ba1d22da03b)

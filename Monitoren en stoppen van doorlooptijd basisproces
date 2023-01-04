@@ -1,0 +1,25 @@
+## Doel
+Het kunnen monitoren van de doorlooptijd van een basisproces, rekening houdend met het wel of niet kunnen pauseren van de doorlooptijd wanneer de behandelaar afhankelijk is van derden voor de voortzetting van het proces. 
+
+## Context / achtergrond
+
+Binnen de gemeentelijke wereld is wettelijk vastgelegd dat een aanvraag binnen een bepaalde periode afgehandeld dient te worden. In veel gevallen is deze periode 8 weken, maar de periode kan verschillen per soort aanvraag. Wanneer een ontvangen aanvraag niet compleet is - er ontbreekt informatie waarvan de aanvrager had kunnen weten dat deze informatie aangelevert dient te worden - dan kan de behandelaar een informatieverzoek met een hersteltermijn uitzetten. De tijd die de aanvrager vervolgens nodig heeft om de ontbrekende informatie alsnog aan te leveren, wordt dan niet meegenomen in totale doorlooptijd ten behoeve van de wettelijke afhandeltermijn.  
+
+Andere relevante informatie:
+- niet voor alle informatieverzoeken geldt een hersteltermijn. Wanneer de behandelaar informatie wil opvragen waarvan de aanvrager niet had kunnen weten dat deze informatie aangelevert had moeten worden, dan loopt de doorlooptijd gewoon door in de periode dat het verzoek uitstaat
+- de behandelaar dient in staat te zijn om een deadline aan het informatieverzoek mee te geven, zodat een informatieverzoek niet tot einde der tijde open blijft staan.
+
+## Wat moet er gebeuren - wat is er nog niet en hebben we wel nodig?
+
+Er zijn 2 mogelijk opties om het bovenstaande te realiseren:
+1. Bouwblokken definieren die gebruikers van valtimo in staat stellen om bovenstaande mechanisme te importeren en - indien nodig - aan te passen
+2. Functionaliteit inbouwen in het product waarbij d.m.v. configurable message events de doorlooptijd kan stoppen en hervatten
+
+## Wat is het eindresultaat?
+Het kunnen monitoren van de doorlooptijd van een basisproces, met de mogelijkheid om de doorlooptijd te pauseren wanneer nodig. 
+
+## Wat valt er buiten scope?
+
+## Impact - hoeveel inspanning kost dit? 
+Inschatting door PO: S/M/L/XL  
+Inschatting door SA: S/M/L/XL  

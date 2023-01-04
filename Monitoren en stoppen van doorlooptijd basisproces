@@ -1,25 +1,41 @@
 ## Doel
-Het kunnen monitoren van de doorlooptijd van een basisproces, rekening houdend met het wel of niet kunnen pauseren van de doorlooptijd wanneer de behandelaar afhankelijk is van derden voor de voortzetting van het proces. 
-
+Het kunnen monitoren van de resterende afhandeltijd van een bedrijfsproces en daarmee Zaakdossier, rekening houdend met het wel of niet kunnen pauseren van de doorlooptijd wanneer de behandelaar afhankelijk is van derden voor de voortzetting van het proces.
+ 
 ## Context / achtergrond
-
-Binnen de gemeentelijke wereld is wettelijk vastgelegd dat een aanvraag binnen een bepaalde periode afgehandeld dient te worden. In veel gevallen is deze periode 8 weken, maar de periode kan verschillen per soort aanvraag. Wanneer een ontvangen aanvraag niet compleet is - er ontbreekt informatie waarvan de aanvrager had kunnen weten dat deze informatie aangelevert dient te worden - dan kan de behandelaar een informatieverzoek met een hersteltermijn uitzetten. De tijd die de aanvrager vervolgens nodig heeft om de ontbrekende informatie alsnog aan te leveren, wordt dan niet meegenomen in totale doorlooptijd ten behoeve van de wettelijke afhandeltermijn.  
-
+ 
+Binnen de gemeentelijke wereld is wettelijk vastgelegd dat een aanvraag binnen een bepaalde periode afgehandeld dient te worden. In veel gevallen is deze periode 8 weken, maar de periode kan verschillen per soort aanvraag. Wanneer een ontvangen aanvraag niet compleet is - er ontbreekt informatie waarvan de aanvrager had kunnen weten dat deze informatie aangelevert dient te worden - dan kan de behandelaar een informatieverzoek met een hersteltermijn uitzetten. De tijd die de aanvrager vervolgens nodig heeft om de ontbrekende informatie alsnog aan te leveren, wordt dan niet meegenomen in totale doorlooptijd ten behoeve van de wettelijke afhandeltermijn. 
+ 
 Andere relevante informatie:
 - niet voor alle informatieverzoeken geldt een hersteltermijn. Wanneer de behandelaar informatie wil opvragen waarvan de aanvrager niet had kunnen weten dat deze informatie aangelevert had moeten worden, dan loopt de doorlooptijd gewoon door in de periode dat het verzoek uitstaat
 - de behandelaar dient in staat te zijn om een deadline aan het informatieverzoek mee te geven, zodat een informatieverzoek niet tot einde der tijde open blijft staan.
-
+ 
 ## Wat moet er gebeuren - wat is er nog niet en hebben we wel nodig?
-
-Er zijn 2 mogelijk opties om het bovenstaande te realiseren:
-1. Bouwblokken definieren die gebruikers van valtimo in staat stellen om bovenstaande mechanisme te importeren en - indien nodig - aan te passen
+ 
+We hebben een generieke oplossing nodig, die met configuratie toepasbaar is. Deze levert op:
+ 
+De mogelijkheid om per Zaakdossier de resterende afhandeltijd vast te leggen en te tonen in een Zaakdossier summary (1ste) tab
+De mogelijkheid om de resterende afhandeltijd op te nemen in een kolom van het lijstscherm
+De mogelijkheid om de filteren op resterende afhandeltijd, bijvoorbeeld ‘toon alle Zaakdossiers waarvan de resterende afhandeltijd minder dan 7 dagen is’
+Voorbereiding voor een latere wens om de afhandeltijden (of afgeleiden daarvan) op een dashboard te tonen, bijvoorbeeld ‘aantal Zaakdossiers met een resterende afhandeltijd minder dan 7 dagen’.
+De mogelijkheid om vanuit een BPMN model met een event de afhandeltijd te zetten, bijvoorbeeld bij aanvang ’56 dagen’
+De mogelijkheid om vanuit een BPMN model met een event de afhandeltijd te pauzeren
+De mogelijkheid om vanuit een BPMN model met een event de afhandeltijd te hervatten
+MVP: dit via configuratie in te stellen in BPMN
+Visie (buiten scope): dit via Proceskoppelingen in te stellen
+ 
+Er zijn 2 mogelijk opties bekend om het bovenstaande te realiseren:
+ 
+1. Bouwblokken definieren die gebruikers van valtimo in staat stellen om bovenstaande mechanisme te importeren en - indien nodig - aan te passen. In dit geval wordt er steeds configuratie gekopieerd. Te denken valt aan een oplossing met timers en procesvariabelen.
 2. Functionaliteit inbouwen in het product waarbij d.m.v. configurable message events de doorlooptijd kan stoppen en hervatten
-
+ 
 ## Wat is het eindresultaat?
-Het kunnen monitoren van de doorlooptijd van een basisproces, met de mogelijkheid om de doorlooptijd te pauseren wanneer nodig. 
-
+Het kunnen monitoren van de doorlooptijd van een bedrijfsproces / zaakdossier, met de mogelijkheid om de doorlooptijd te pauseren wanneer nodig.
+ 
 ## Wat valt er buiten scope?
-
-## Impact - hoeveel inspanning kost dit? 
-Inschatting door PO: S/M/L/XL  
-Inschatting door SA: S/M/L/XL  
+ 
+Visie (buiten scope): dit via Proceskoppelingen in te stellen
+Dashboarding / BI
+ 
+## Impact - hoeveel inspanning kost dit?
+Inschatting door PO: S/M/L/XL 
+Inschatting door SA: S/M/L/XL 

@@ -1,0 +1,21 @@
+Doel
+Als organisatie wil ik een generieke plugin die ik kan installeren om email berichten incl gegevens te versturen, 
+zodat ik deze kan om via een beveiligde mailoplossing partners en burgers te mailen. 
+Context / achtergrond
+Wat moet er gebeuren - wat is er nog niet en hebben we wel nodig?
+- Het kunnen starten van een mail vanuit GZAC
+- In kunnen stellen welke data meegestuurd moet worden.
+- Mogelijkheid om connectie met een document management systeem te maken.
+- Triggeren van de mailfunctionaliteit.
+Wat is het eindresultaat?
+- Het kunnen starten van een mailopdracht
+- Ophalen en verzenden van data naar template
+- Samengestelde data naar mailoplossing doorzetten om te verzenden.
+Wat valt er buiten scope?
+- Mailoplossing
+- Documentmanagement systemen
+Impact - hoeveel inspanning kost dit?
+Inschatting door PO: S/M/L/XL
+Inschatting door SA: S/M/L/XL
+
+Besluiten roadmap overleg

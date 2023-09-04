@@ -1,0 +1,22 @@
+## Doel
+Het aantal keren dat het woord "Taken" voorkomt in het Taken scherm is te veel. 
+We willen dit graag verminderen.
+
+## Context / achtergrond
+Als je het menu "Taken" selecteert, kom je in het takenscherm. Hier wordt 5x het woord "taken" genoemd
+
+## Wat moet er gebeuren - wat is er nog niet en hebben we wel nodig?
+- Alleen de 3 taak opties (mijn taken / niet toegewezen taken / alle taken) en de zoekfunctie tonen.
+- De titel van het scherm kan blijven
+- De subtitel "Mijn Taken" met de uitleg "Overzicht van alle toegewezen taken" verwijderen
+
+## Wat is het eindresultaat?
+Een scherm met alleen de 3 taak opties en een zoekfunctionaliteit.
+
+## Wat valt er buiten scope?
+
+## Impact - hoeveel inspanning kost dit? 
+Inschatting door PO: S/M/L/XL  
+Inschatting door SA: S/M/L/XL  
+
+## Besluiten roadmap overleg

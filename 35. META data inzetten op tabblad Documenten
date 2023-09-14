@@ -1,0 +1,41 @@
+## Doel
+Beter inzicht krijgen in welke documenten zijn toegevoegd aan een Dossier in GZAC.
+
+## Context / achtergrond
+Via de Documenten API in GZAC kunnen de Documenttypen welke zijn gekoppeld aan een Zaak worden geconfigureerd.
+Wanneer dit is gedaan zal automatisch voor iedere upload een UI verschijnen waarin de META data van het geuploade document moet worden gekozen.
+Deze META data wordt opgeslagen bij het Document.
+
+Huidige informatie welke wordt weergegeven:
+- Bestandsnaam
+- Bestandsgrootte
+- Aanmaakdatum
+- Aangemaakt door
+
+## Wat moet er gebeuren - wat is er nog niet en hebben we wel nodig?
+- Tabblad Documenten in GZAC ontvangt naast de Documentlinks ook de opgeslagen META data.
+- Informatie over een document op tabblad Documenten wordt uitgebreid met de META data.
+- Tabblad Documenten kan worden gesorteerd op basis van META data eigenschappen.
+
+## Wat is het eindresultaat?
+Selectie van META data kan via configuratie worden toegevoegd aan de kolominformatie op Tabblad Documenten
+- Titel
+- Auteur
+- Taal
+- Documenttype
+- Aanvullende documentdatum
+- Status
+- ...
+- ...
+
+Tabblad kan Documenten kan naast de standaard weergave worden ingesteld in Documenttype weergave zodat iedere Documenttype "een eigen sectie" op de pagina krijgt met een eigen lijst.
+
+
+## Wat valt er buiten scope?
+- Ik kan het niet direct bedenken
+
+## Impact - hoeveel inspanning kost dit? 
+Inschatting door PO: S/M/L/XL
+Inschatting door SA: S/M/L/XL  
+
+## Besluiten roadmap overleg

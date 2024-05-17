@@ -1,4 +1,4 @@
-# GZAC roadmap items
+# GZAC issues
 
 # Inschattingen
 | T-shirt size | Blokken van 30 uur |

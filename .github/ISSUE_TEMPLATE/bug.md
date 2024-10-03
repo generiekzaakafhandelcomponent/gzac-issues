@@ -5,18 +5,16 @@ labels: "bug"
 assignees: "ThomasMinkeRitense"
 
 ---
-<!--- Provide a general summary of the issue in the Title above -->
-
-## Expected Behavior
+## Expected behavior
 *What should happen?*
 
-## Current Behavior
+## Current behavior
 *What happens instead of the expected behavior?*
 
-## Possible Solution (optional)
+## Possible solution (optional)
 *What would be a possible fix?*
 
-## Steps to Reproduce
+## Steps to reproduce
 *Provide an unambiguous set of steps to reproduce this bug.*
 *Include code to reproduce, if relevant*
 1.

@@ -5,6 +5,9 @@ labels: "bug"
 assignees: "ThomasMinkeRitense"
 
 ---
+## Affected version
+*Specify in which version of the application the issue is found?*
+
 ## Expected behavior
 *What should happen?*
 

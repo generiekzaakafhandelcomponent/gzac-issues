@@ -5,6 +5,9 @@ labels: "bug"
 assignees: "ThomasMinkeRitense"
 
 ---
+## Betrokken versie
+*Geef aan in welke versie van de applicatie het probleem is gevonden*
+
 ## Verwacht gedrag
 *Wat zou er moeten gebeuren?*
 
